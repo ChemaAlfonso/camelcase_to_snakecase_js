@@ -2,7 +2,7 @@
     "name": "camelcase-to-snakecase",
     "description": "Converts camelcase to snakecase",
     "private": false,
-    "version": "1.0.3",
+    "version": "1.0.4",
     "main": "src/index.js",
     "license": "MIT",
     "keywords": [
