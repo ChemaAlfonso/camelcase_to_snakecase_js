@@ -1,0 +1,12 @@
+{
+    "name": "camelcase_to_snakecase",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "dev": "nodemon src/test.js"
+    },
+    "dependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
