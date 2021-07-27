@@ -25,7 +25,7 @@ const objInCamelCase = {
     userAge: 25
 };
 
-console.log(replaceCamelCaseObj(obj));
+console.log(replaceCamelCaseObj(objInCamelCase));
 
 /* returns
 {
