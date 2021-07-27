@@ -1,12 +1,28 @@
 {
-    "name": "camelcase_to_snakecase",
+    "name": "camelcase-to-snakecase",
+    "description": "Converts camelcase to snakecase",
+    "private": false,
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "src/index.js",
     "license": "MIT",
-    "scripts": {
-        "dev": "nodemon src/test.js"
-    },
     "dependencies": {
+        "dev": "node src/index"
+    },
+    "keywords": [
+        "snakecase",
+        "camelcase",
+        "camelcase to snakecase",
+        "snakecase convert"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/josuemartinezz/camelcase_to_snakecase_js"
+    },
+    "bugs": {
+        "url": "https://github.com/josuemartinezz/camelcase_to_snakecase_js/issues"
+    },
+    "author": "Josué Ayala <ayalavalencia11@gmail.com>",
+    "devDependencies": {
         "nodemon": "^2.0.12"
     }
 }
