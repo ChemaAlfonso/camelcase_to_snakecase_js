@@ -8,6 +8,13 @@ npm install camelcase-to-snakecase
 
 # Or
 yarn add camelcase-to-snakecase
+
+# CDN
+unpkg
+https://unpkg.com/camelcase-to-snakecase@1.0.5/src/index.js
+
+jsdelivr
+https://cdn.jsdelivr.net/npm/camelcase-to-snakecase@latest/src/index.min.js
 ```
 
 ### Import
