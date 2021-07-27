@@ -20,7 +20,7 @@ https://cdn.jsdelivr.net/npm/camelcase-to-snakecase@latest/src/index.min.js
 ### Import
 
 ``` bash
-const { replaceCamelCaseObj, replaceCamelCaseObj } = require('camelcase-to-snakecase');
+const { camelCaseToSnakeCase, replaceCamelCaseObj } = require('camelcase-to-snakecase');
 ```
 
 ### Usage
